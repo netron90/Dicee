@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="dice_number">2</string>
+    <string name="dice_text">Bad</string>
+    <string name="dice_button">Roll dicee</string>
+    <string name="dice_text1">"Hum... Not Bad! Try Again"</string>
+    <string name="dice_text2">Good!!! Try Again"</string>
+    <string name="dice_text3">Excellent!!! You\'re Best.</string>
+</resources>
